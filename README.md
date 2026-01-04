@@ -40,4 +40,4 @@ These notes will evolve into a series of short essays and white papers on:
 
 ## About the author
 Chemical Engineering PhD • AI Evaluation • Atmospheric Modeling • National Security  
-Focused on how complex systems fail — and how to detect when they’re no longer aligned with reality.
+Focused on how complex systems fail, and how to detect when they’re no longer aligned with reality.
